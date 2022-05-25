@@ -1,0 +1,28 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-success {
+    background-color: #4eb883;
+    color: #fff;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+.text-success {
+    color: #4eb883;
+}
+.text-primary {
+    color: #0275d8;
+}
+.text-warning {
+    color: #f0ad4e;
+}
+.text-danger {
+    color: #d9534f;
+}
+.text-info {
+    color: #5bc0de;
+}
